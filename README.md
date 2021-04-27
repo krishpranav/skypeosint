@@ -8,8 +8,8 @@
 git clone https://github.com/krishpranav/skypeosint
 cd skypeosint
 chmod +x *
-python3 -m pip install -r requirements.txt
-python3 skypeosint.py
+python -m pip install -r requirements.txt
+python skypeosint.py
 ```
 
 # Example
